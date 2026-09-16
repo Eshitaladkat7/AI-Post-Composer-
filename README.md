@@ -1,2 +1,2 @@
 # AI-Post-Composer-
-AI-powered social post generator using few-shot LLM prompting on your writing history, with auto-tagging and a Streamlit interface
+AI Post Composer is a GenAI content-generation pipeline that drafts on-brand social media posts by few-shot prompting an LLM with a user's own historical writing — matched by topic, tone, and length. It includes an LLM-driven enrichment stage that auto-tags unstructured text and unifies inconsistent tags into a clean taxonomy, plus a retrieval-based few-shot example selector and an interactive Streamlit interface for end-to-end generation.
